@@ -9,3 +9,15 @@ Task 3: Artificial Intelligence Chatbot
 3.Implement machine learning logic or rule-based answers.
 
 4.Integrate GUI/web interface for real-time interaction.
+
+Technology:
+
+1)Java :programming language
+
+2)Scanner:to read user input
+
+3)String handling :to process and match text
+
+Submitted by
+
+Nandhini Murugesan
